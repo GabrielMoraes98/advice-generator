@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  body .container {
+    justify-content: space-evenly;
+    width: 90%;
+  }
+  body .container img {
+    width: 100%;
+  }
+}
